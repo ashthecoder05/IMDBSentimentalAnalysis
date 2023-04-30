@@ -25,19 +25,13 @@ git clone https://github.com/aadyanthaya/IMDBSentimentalAnalysis.git
 cd sentiment-analysis-imdb
 ```
 
-3. Install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Start Jupyter Notebook:
+3. Start Jupyter Notebook:
 
 ```bash
 jupyter notebook
 ```
 
-5. Open the sentimentAnalysis.ipynb notebook in your web browser and follow the steps to run the code.
+4. Open the sentimentAnalysis.ipynb notebook in your web browser and follow the steps to run the code.
 
 ### Contents
 
